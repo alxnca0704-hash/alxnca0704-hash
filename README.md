@@ -55,12 +55,3 @@ I enjoy working on data-related projects and building practical solutions while 
 </a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/alxnca0704-hash"><img src="https://github-readme-stats.vercel.app/api?username=alxnca0704-hash&show_icons=true&hide=&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=27272a&hide_border=true&show_icons=true" alt="alxnca0704-hash's GitHub stats" /></a>
-
-<a href="http://www.github.com/alxnca0704-hash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alxnca0704-hash&stroke=ffffff&background=27272a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/alxnca0704-hash" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxnca0704-hash&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
