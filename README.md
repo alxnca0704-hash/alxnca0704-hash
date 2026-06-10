@@ -55,3 +55,5 @@ I enjoy working on data-related projects and building practical solutions while 
 </a>
 </p>
 
+![snake gif](https://github.com/alxnca0704-hash/alxnca0704-hash/blob/output/github-snake-dark.svg)
+
